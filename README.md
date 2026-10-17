@@ -36,6 +36,6 @@ I built a personal portfolio web page using HTML to establish a structured,respo
 - Contact form integration
 
 ## Live Demo 
-[View Live Demo](https://gitau0076-cpu.github.io/ify-s12-week-01-gitau0076-cpu/)
+[View Live Demo](https://gitau0076-cpu.github.io/iyf-s12-week-01-gitau0076-cpu/)
 ## Technical Article
 [Read Article on Dev.to](https://dev.to/florence_gitau_pj/-building-an-accessible-web-portfolio-semantic-html-and-accessibility-audit-38pe)
