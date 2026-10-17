@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Navigation</title>
+</head>
+<body>
+<!--DAY 2: NAVIGATION MENU-->
+    <section id="home">
+        <h3>Navigation menu</h3>
+        <nav>
+            <ul>
+            <li><a href="#home">Home</a></li>
+            <li><a href="#contactme"> Contact me</a></li>
+            <li><a href ="#pictures">Photo gallery</a></li>
+            <li><a href= "#blog"> Blog</a></li></li>
+            </ul>
+        </nav>
+    </section>
+    </body>
+</html>

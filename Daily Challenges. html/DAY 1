@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daily Challenges</title>
+</head>
+<body>
+    <h1>Daily Challenges</h1>
+    <section id="day1">
+    <!--DAY 1: FIVE TAGS CHALLENGE -->
+    <h2> Five Tags Challenge</h2>
+    <!--<abbr> & <mark>-->
+        <p>Learning <abbr title="HyperText Markup Language">HTML</abbr>is <mark>essential</mark> for wb development.</p>
+        <!--<blockquote> & <cite>-->
+    <blockquote cite="https://developer.mozilla.org">
+        "Accessibility is not a feature,it's a requirement."
+    </blockquote>
+    <p>- Quote from <cite>MDN Web Docs</cite></p>
+    <!-- <details>,<summary> & <code>-->
+    <details>
+        <summary>Click to view codee tip</summary>
+        <p>Use semantic elements like <code></code> for clean structure.</p>
+        </details>
+        <!--<time>-->
+            <p>Completed on <time datetime="2026-10-01"> October 1,2026</time></p>
+    </section>
+</body>
+</html>

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Photo Gallery Structure</title>
+</head>
+<body>
+<!--DAY 4: PHOTO GALLERY STRUCTURE-->
+    <section id="pictures">
+        <h4> Photo Gallery Structure</h4>
+        <div>
+            <figure>
+                <img src="images/image-1.jpg" alt="cows">
+                <figcaption>Gallery Image 1</figcaption>
+            </figure>
+            <figure>
+                <img src="images/image-2.jpg" alt="sunset">
+                <figcaption>Gallery Image 2</figcaption>
+            </figure>
+            <figure>
+                <img src="images/image-3.jpg" alt="horse">
+                <figcaption>Gallery Image 3</figcaption>
+            </figure>
+            <figure>
+                <img src="images/image-4.jpg" alt="sunset">
+                <figcaption>Gallery Image 4</figcaption>
+            </figure>
+            <figure>
+                <img src="images/image-5.jpg" alt="cars">
+                <figcaption>Gallery Image 5</figcaption>
+            </figure>
+            <figure>
+                <img src="images/image-6.jpg" alt="masonry G63">
+                <figcaption>Gallery Image 6</figcaption>
+            </figure>
+        </div>
+</section>
+</body>
+</html>

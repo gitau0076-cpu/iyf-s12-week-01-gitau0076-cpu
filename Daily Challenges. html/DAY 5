@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog Post Layout</title>
+</head>
+<body>
+<!--DAY 5 : BLOG POST LAYOUT-->
+<section id="blog">
+    <h1>Blog Post Layout</h1>
+    <article>
+        <header>
+            <h2>Building an Accessible Web Portfolio: Semantic HTML and Accessibility</h2>
+            <p>Published on <time datetime="2026-10-01">October 1,2026</time> by Florence Gitau</p>
+        </header>
+        <figure>
+            <img src="images/blog-cover .jpg" alt="Building an Accessible Web Portfolio header banner">
+            <figcaption>Blog cover image for accessibility audit article</figcaption>
+        </figure>
+        <h3>What is Semantic HTML</h3>
+        <p>It means using tags according to their structural meaning rather than visual apperance.</p>
+        <h4>Why Accessibility Matters</h4>
+        <p>Ensuring web applications are accessible to all users- including those relying on screen readers-is essential for web development.</p>
+        </section>
+    </article>
+    </body>
+</html>

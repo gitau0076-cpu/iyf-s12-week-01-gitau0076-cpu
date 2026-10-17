@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact</title>
+</head>
+<body> 
+<!--DAY 3: CONTACT -->
+    <section id="contactme">
+        <address>
+            <p>245 Ngecha Street,Nairobi City</p>
+            <p>Email: <a href="mailto:gitau0076@gmail.com">gitau0076@gmail.com</a></p>
+            <p>Phone: <a href="tel:0708584151">0708584151</a></p>
+          </address>
+            <p>Follow us:</p>
+            <ul>
+                <li><a href="https://gitau0076-cpu.github.io">GitHub</a></li>
+                 <li><a href="https://www.linkedin.com/in/florence-gitau-480874358">Linkedin</a></li>   
+            </ul>
+    </section>
+    </body>
+</html>
