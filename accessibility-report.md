@@ -1,5 +1,5 @@
 ## Issues Found
-- Intial Lighthouse accessibility score was 89.
+- Initial Lighthouse accessibility score was 89.
 - Touch targets do not have sufficient size and spacing.
 - Document does not have `<main>` landmark element.
 ## How They were Fixed
@@ -7,5 +7,5 @@
 - Added padding and margin CSS styles to anchor tags to increase tap target size and spacing.
 - After marking the changes the final score was 100.
 ## Final Lighthouse accessibility score
-- **Intial score:** 89
+- **Initial score:** 89
 - **Final score:** 100
